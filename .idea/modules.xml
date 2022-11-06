@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CanPalindrome/CanPalindrome.iml" filepath="$PROJECT_DIR$/CanPalindrome/CanPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EdabitFeladatok.iml" filepath="$PROJECT_DIR$/EdabitFeladatok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncOrDecNumbers/IncOrDecNumbers.iml" filepath="$PROJECT_DIR$/IncOrDecNumbers/IncOrDecNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persistance/Persistance.iml" filepath="$PROJECT_DIR$/Persistance/Persistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PiggyBank/PiggyBank.iml" filepath="$PROJECT_DIR$/PiggyBank/PiggyBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Podos/Podos.iml" filepath="$PROJECT_DIR$/Podos/Podos.iml" />
+    </modules>
+  </component>
+</project>
